@@ -88,7 +88,5 @@ Then open the link shown in your terminal (usually `http://localhost:8501`) to u
 ## 📜 License
 
 This project is open-source and available under the [MIT License](LICENSE).
-  
 
-Do you also want me to generate the exact **requirements.txt** for your project based on the imports in `app.py`?
-```
+
